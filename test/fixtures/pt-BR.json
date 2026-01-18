@@ -1,0 +1,11 @@
+{
+  "french_bread": "pão francês",
+  "form": {
+    "field_1_name": "Nome",
+    "field_2_name": "Sobrenome"
+  },
+  "photos": "{n, plural, =0 {nenhuma foto.} =1 {uma foto.} other {# fotos.}}",
+  "title": "Título da página",
+  "sneakers": "Tênis",
+  "with-syntax-error": "Olá {{name}}!"
+}

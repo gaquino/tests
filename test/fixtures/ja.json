@@ -1,0 +1,10 @@
+{
+  "form": {
+    "field_1_name": "名",
+    "field_2_name": "苗字"
+  },
+  "photos": "{n, plural, =0 {写真がありません。} =1 {写真が1枚あります。} other {写真が#枚あります。}}",
+  "title": "ページタイトル",
+  "sneakers": "スニーカー",
+  "with-syntax-error": "こんにちは、{{name}}さん！"
+}
