@@ -1,0 +1,14 @@
+{
+  "form": {
+    "field_1_name": "姓名",
+    "field_2_name": "姓"
+  },
+  "photos": "你有 {n, plural, =0 {没有照片。} =1 {一张照片。} other {# 张照片。}}",
+  "title": "页面标题",
+  "sneakers": "运动鞋",
+  "with-syntax-error": "你好 {{name}}!",
+  "test": "测试",
+  "label_1": "爆米花",
+  "label_2": "巧克力蛋糕",
+  "label_3": "配置缺少 {key_1} 和 {key_2}"
+}
