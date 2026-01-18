@@ -6,5 +6,9 @@
   "photos": "You have {n, plural, =0 {no photos.} =1 {one photo.} other {# photos.}}",
   "title": "Page title",
   "sneakers": "sneakers",
-  "with-syntax-error": "Hello {{name}}!"
+  "with-syntax-error": "Hello {{name}}!",
+  "test": "test",
+  "label_1": "Popcorn",
+  "label_2": "Chocolate cake",
+  "label_3": "Configuration is missing {key_1} and {key_2}"
 }
