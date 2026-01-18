@@ -6,5 +6,9 @@
   "photos": "{n, plural, =0 {写真がありません。} =1 {写真が1枚あります。} other {写真が#枚あります。}}",
   "title": "ページタイトル",
   "sneakers": "スニーカー",
-  "with-syntax-error": "こんにちは、{{name}}さん！"
+  "with-syntax-error": "こんにちは、{{name}}さん！",
+  "test": "テスト",
+  "label_1": "ポップコーン",
+  "label_2": "チョコレートケーキ",
+  "label_3": "設定に {key_1} および {key_2} が不足しています。"
 }

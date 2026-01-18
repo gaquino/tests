@@ -7,5 +7,9 @@
   "photos": "{n, plural, =0 {nenhuma foto.} =1 {uma foto.} other {# fotos.}}",
   "title": "Título da página",
   "sneakers": "Tênis",
-  "with-syntax-error": "Olá {{name}}!"
+  "with-syntax-error": "Olá {{name}}!",
+  "test": "Teste",
+  "label_1": "Pipoca",
+  "label_2": "Bolo de chocolate",
+  "label_3": "A configuração está faltando {key_1} e {key_2}"
 }
