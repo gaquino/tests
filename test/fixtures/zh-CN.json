@@ -10,5 +10,12 @@
   "test": "测试",
   "label_1": "爆米花",
   "label_2": "巧克力蛋糕",
-  "label_3": "配置缺少 {key_1} 和 {key_2}"
+  "label_3": "配置缺少 {key_1} 和 {key_2}",
+  "label_10": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}",
+  "label_5": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4}",
+  "label_6": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5}",
+  "label_7": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}",
+  "label_4": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3}",
+  "label_8": "配置缺失 {key_1} 与 {key_2} 与 {key_3} 与 {key_4}",
+  "label_9": "配置缺失 {key_1}、{key_2}、{key_3}、{key_4}、{key_5}"
 }

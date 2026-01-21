@@ -10,5 +10,12 @@
   "test": "テスト",
   "label_1": "ポップコーン",
   "label_2": "チョコレートケーキ",
-  "label_3": "設定に {key_1} および {key_2} が不足しています。"
+  "label_3": "設定に {key_1} および {key_2} が不足しています。",
+  "label_10": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}",
+  "label_5": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4}",
+  "label_6": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5}",
+  "label_7": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}",
+  "label_4": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3}",
+  "label_8": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4}",
+  "label_9": "<TRANSLATE>Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5}"
 }
