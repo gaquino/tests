@@ -15,5 +15,7 @@
   "label_5": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4}",
   "label_6": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5}",
   "label_7": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}"
-
+  "label_8": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4}",
+  "label_9": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5}",
+  "label_10": "Configuration is missing {key_1} and {key_2} and {key_3} and {key_4} and {key_5} and {key_6}"
 }
