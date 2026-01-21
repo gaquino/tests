@@ -11,5 +11,12 @@
   "test": "Teste",
   "label_1": "Pipoca",
   "label_2": "Bolo de chocolate",
-  "label_3": "A configuração está faltando {key_1} e {key_2}"
+  "label_3": "A configuração está faltando {key_1} e {key_2}",
+  "label_10": "Faltam na configuração {key_1} e {key_2} e {key_3} e {key_4} e {key_5} e {key_6}",
+  "label_5": "A configuração não possui {key_1} e {key_2} e {key_3} e {key_4}",
+  "label_6": "Faltam {key_1}, {key_2}, {key_3}, {key_4} e {key_5} na configuração.",
+  "label_7": "Faltam {key_1}, {key_2}, {key_3}, {key_4}, {key_5} e {key_6} na configuração.",
+  "label_4": "Faltam {key_1}, {key_2} e {key_3} na configuração.",
+  "label_8": "Faltam {key_1}, {key_2}, {key_3} e {key_4} na configuração.",
+  "label_9": "A configuração carece de {key_1} e {key_2} e {key_3} e {key_4} e {key_5}"
 }
