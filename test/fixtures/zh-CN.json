@@ -10,5 +10,9 @@
   "test": "测试",
   "label_1": "爆米花",
   "label_2": "巧克力蛋糕",
-  "label_3": "配置缺少 {key_1} 和 {key_2}"
+  "label_3": "配置缺少 {key_1} 和 {key_2}",
+  "label_5": "配置缺少 {key_1}、{key_2}、{key_3} 和 {key_4}",
+  "label_7": "配置缺失 {key_1}、{key_2}、{key_3}、{key_4}、{key_5} 和 {key_6}",
+  "label_6": "配置缺失 {key_1}、{key_2}、{key_3}、{key_4} 和 {key_5}",
+  "label_4": "配置缺失 {key_1} 和 {key_2} 和 {key_3}"
 }
